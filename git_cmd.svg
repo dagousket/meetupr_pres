@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="160mm"
+   height="70mm"
+   viewBox="0 0 160 70"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="git_cmd.svg"
+   inkscape:export-filename="git_cmd.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="236.63286"
+     inkscape:cy="140.90952"
+     inkscape:window-width="1389"
+     inkscape:window-height="847"
+     inkscape:window-x="51"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.923348,-4.6167865)">
+    <g
+       id="g6110"
+       transform="translate(2.2897619,2.4644666)">
+      <rect
+         style="fill:#60c8ad;fill-opacity:1;stroke:#113129;stroke-width:0.999999;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         id="rect234-2"
+         width="121.71944"
+         height="64.071068"
+         x="15.423347"
+         y="5.116786"
+         ry="1.8259979"
+         rx="1.8259979" />
+      <rect
+         style="fill:#3ea4d2;fill-opacity:0.87451;stroke:#154054;stroke-width:0.999996;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.984314"
+         id="rect234-2-2"
+         width="29.306503"
+         height="64.071068"
+         x="140.53732"
+         y="5.116786"
+         ry="1.8259979"
+         rx="1.8259981" />
+      <rect
+         style="fill:#c5ebe1;fill-opacity:1;stroke:#113129;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         id="rect234"
+         width="35.595036"
+         height="49.289417"
+         x="19.13233"
+         y="16.904428"
+         ry="1.8259982"
+         rx="1.8259981" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="36.901268"
+         y="24.119526"
+         id="text2166-9"><tspan
+           sodipodi:role="line"
+           id="tspan2164-0"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:none;stroke-width:1"
+           x="36.901268"
+           y="24.119526">working</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:none;stroke-width:1"
+           x="36.901268"
+           y="32.057026"
+           id="tspan3202">directory</tspan></text>
+      <rect
+         style="fill:#c5ebe1;fill-opacity:1;stroke:#113129;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         id="rect234-3"
+         width="35.595036"
+         height="49.289417"
+         x="58.485546"
+         y="16.904428"
+         ry="1.8259982"
+         rx="1.8259981" />
+      <rect
+         style="fill:#c5ebe1;fill-opacity:1;stroke:#113129;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         id="rect234-9"
+         width="35.595036"
+         height="49.289417"
+         x="97.838768"
+         y="16.904428"
+         ry="1.8259982"
+         rx="1.8259981" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="76.220001"
+         y="13.793077"
+         id="text2166"><tspan
+           sodipodi:role="line"
+           id="tspan2164"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:none;stroke-width:1"
+           x="76.220001"
+           y="13.793077">Local</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#103445;fill-opacity:0.87451;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="155.03394"
+         y="13.793077"
+         id="text2166-8"><tspan
+           sodipodi:role="line"
+           id="tspan2164-4"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#103445;fill-opacity:0.87451;stroke:none;stroke-width:1"
+           x="155.03394"
+           y="13.793077">Remote</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="76.424736"
+         y="24.119526"
+         id="text2166-9-3"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:none;stroke-width:1"
+           x="76.424736"
+           y="24.119526"
+           id="tspan3202-8">staging</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="115.54421"
+         y="24.119526"
+         id="text2166-9-3-1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:none;stroke-width:1"
+           x="115.54421"
+           y="24.119526"
+           id="tspan3202-8-2">local</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#113129;fill-opacity:1;stroke:none;stroke-width:1"
+           x="115.54421"
+           y="32.057026"
+           id="tspan3265">repository</tspan></text>
+      <path
+         id="rect5118"
+         style="fill:#efc87b;fill-opacity:1;stroke:#daa130;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         d="m 42.00677,46.45333 h 26.762025 c 0.05306,0 0.04963,-0.06032 0.09578,5.3e-5 l 2.534072,3.315133 -2.534072,3.315613 c -0.04614,0.06038 -0.04272,-4.26e-4 -0.09578,-4.26e-4 H 42.00677 c -0.05306,0 -0.09577,-0.09846 -0.09577,-0.220767 v -6.188839 c 0,-0.122305 0.04271,-0.220767 0.09577,-0.220767 z"
+         sodipodi:nodetypes="ssscssssss" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="55.666069"
+         y="51.089188"
+         id="text2166-9-8"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:none;stroke-width:1"
+           x="55.666069"
+           y="51.089188"
+           id="tspan3202-1">git add</tspan></text>
+      <path
+         id="rect5118-9"
+         style="fill:#efc87b;fill-opacity:1;stroke:#daa130;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         d="m 80.85178,46.423805 h 29.18824 c 0.0579,0 0.0541,-0.06032 0.10448,5.3e-5 l 2.7638,3.315133 -2.7638,3.315613 c -0.0503,0.06038 -0.0466,-4.26e-4 -0.10448,-4.26e-4 H 80.85178 c -0.05787,0 -0.104452,-0.09846 -0.104452,-0.220767 v -6.188839 c 0,-0.122305 0.04658,-0.220767 0.104452,-0.220767 z"
+         sodipodi:nodetypes="ssscssssss" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="95.661514"
+         y="51.059666"
+         id="text2166-9-8-4"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:none;stroke-width:1"
+           x="95.661514"
+           y="51.059666"
+           id="tspan3202-1-3">git commit</tspan></text>
+      <path
+         id="rect5118-9-8"
+         style="fill:#efc87b;fill-opacity:1;stroke:#daa130;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         d="m 124.67213,46.480291 h 29.18825 c 0.0579,0 0.0541,-0.06032 0.10448,5.3e-5 l 2.7638,3.315133 -2.7638,3.315613 c -0.0503,0.06038 -0.0466,-4.26e-4 -0.10448,-4.26e-4 h -29.18825 c -0.0579,0 -0.10445,-0.09846 -0.10445,-0.220767 v -6.188839 c 0,-0.122305 0.0466,-0.220767 0.10445,-0.220767 z"
+         sodipodi:nodetypes="ssscssssss" />
+      <path
+         id="rect5118-9-8-6"
+         style="fill:#efc87b;fill-opacity:1;stroke:#daa130;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         d="m 156.62419,55.97609 h -29.18825 c -0.0579,0 -0.0541,-0.06032 -0.10448,5.3e-5 l -2.7638,3.315133 2.7638,3.315613 c 0.0503,0.06038 0.0466,-4.26e-4 0.10448,-4.26e-4 h 29.18825 c 0.0579,0 0.10445,-0.09846 0.10445,-0.220767 v -6.188839 c 0,-0.122305 -0.0466,-0.220767 -0.10445,-0.220767 z"
+         sodipodi:nodetypes="ssscssssss" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="139.65012"
+         y="51.11615"
+         id="text2166-9-8-4-1"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:none;stroke-width:1"
+           x="139.65012"
+           y="51.11615"
+           id="tspan3202-1-3-7">git push</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="141.74135"
+         y="60.92234"
+         id="text2166-9-8-4-1-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:none;stroke-width:1"
+           x="141.74135"
+           y="60.92234"
+           id="tspan3202-1-3-7-1">git fetch</tspan></text>
+      <path
+         id="rect5118-9-8-6-3"
+         style="fill:#efc87b;fill-opacity:1;stroke:#daa130;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         d="M 156.59537,36.468178 H 45.38629 c -0.0579,0 -0.05413,-0.06034 -0.10448,5.3e-5 l -2.7638,3.315133 2.7638,3.315613 c 0.05032,0.06036 0.0466,-4.26e-4 0.10448,-4.26e-4 h 111.20908 c 0.0579,0 0.10445,-0.09846 0.10445,-0.220767 v -6.188839 c 0,-0.122305 -0.0466,-0.220767 -0.10445,-0.220767 z"
+         sodipodi:nodetypes="ssscssssss" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:#393939;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1"
+         x="99.401489"
+         y="41.414425"
+         id="text2166-9-8-4-1-2-0"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:bBTrial_Krikikrak;-inkscape-font-specification:'bBTrial_Krikikrak Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:0.87451;stroke:none;stroke-width:1"
+           x="99.401489"
+           y="41.414425"
+           id="tspan3202-1-3-7-1-6">git pull</tspan></text>
+    </g>
+  </g>
+</svg>
