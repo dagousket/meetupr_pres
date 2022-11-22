@@ -1,5 +1,6 @@
 ---
-title: "meetupR_git"
+title: "MeetupR Nantes"
+subtitle: "C'est quoi un système de contrôle de version ? Et pourquoi m'intéresser à git ?"
 format:
   revealjs: 
     theme: solarized
@@ -18,15 +19,17 @@ revealjs-plugins:
   - pointer
 ---
 
-# Quarto
-
-Quarto enables you to weave together content and
-
-## Test 1
-executable code into a finished presentation.
+# système de contrôle de version
 
 
-## test 2
+
+## Quel est le but?
+
+Vous embarquer vers un système sans fichier_final_final2_re.R
+
+
+## C'est pourq
+
 To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
 
 # Bullets
