@@ -1,0 +1,45 @@
+---
+title: "meetupR_git"
+format:
+  revealjs: 
+    theme: solarized
+    slide-number: true
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    pointer:
+      pointerSize: 18
+      color: '#eb349b'
+    navigation-mode: vertical
+    controls-layout: bottom-right
+    controls-tutorial: true
+revealjs-plugins:
+  - verticator
+  - pointer
+---
+
+# Quarto
+
+Quarto enables you to weave together content and
+
+## Test 1
+executable code into a finished presentation.
+
+
+## test 2
+To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+# Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
