@@ -119,16 +119,46 @@ On *duplique* une base en un nouvelle branche. Les prochains `commit` sont spéc
 ::: incremental
 -   `git branch <new-branch>` pour créer une branche
 -   `git checkout <new-branch>` pour la définir comme active
+-   `git push -–set-upstream` pour ajouter la branch au remote
 -   🏁 example
 :::
 
 ## Le principe II
 
-On *intègre* les modification d'une branche dans une autre une fois la correction/feature terminée (`git merge`).
+On *intègre* les `commit` d'une branche dans une autre (`git merge`).
 
 ![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:c6db91c1-1343-4d45-8c93-bdba910b9506/02%20Branch-1%20kopiera.png?cdnVersion=638){fig-alt="git merge" fig-align="center"}
 
+## Les manoeuvres
+
+::: incremental
+-   `git merge <my_branch>` intègre *my_branch* dans la branche active
+-   💡 le `git pull` est un merge entre le remote et le local
+-   😈 Un **merge conflict** peut arriver entre `commit`
+:::
+
+## Les manoeuvres
+
+En collaboration, on peut créer un `pull request` de notre branch sur un repo remote pour demander à intégrer nos `commit` dans la master branch.
+
+![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:d079cf8a-2bea-4d77-910e-2eac20c8050e/01%20Anatomy%20of%20a%20Pull%20Request.svg?cdnVersion=638){fig-alt="pull request" fig-align="center"}
+
+# 
+
+![xkcd comics](https://imgs.xkcd.com/comics/git_commit_2x.png){fig-alt="git commit" fig-align="center"}
 
 # Sources
 
-remerciements source : https://github.com/quarto-dev/quarto-cli https://profy.dev/project/github-minesweeper/ https://thinkr.fr/travailler-avec-git-via-rstudio-et-versionner-son-code/
+**git**
+
+profy.dev/project/github-minesweeper/
+www.atlassian.com/git/tutorials
+
+**RStudio git**
+
+thinkr.fr/travailler-avec-git-via-rstudio-et-versionner-son-code/
+
+**quarto**
+
+https://quarto.org/docs/presentations/revealjs
+github.com/quarto-dev/quarto-cli
