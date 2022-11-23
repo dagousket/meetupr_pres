@@ -69,7 +69,7 @@ Sauvegarder les modifications en **local** :
 ::: incremental
 -   `git add` (ou ☑) pour selectionner les modifications à sauver
 -   `git commit` pour valider la nouvelles version du projet
--    🏁 example
+-   🏁 example
 :::
 
 ## Les outils
@@ -77,9 +77,9 @@ Sauvegarder les modifications en **local** :
 On peut explorer toutes nos modifications :
 
 ::: incremental
--   **précédentes** avec le `git history`
+-   **précédentes** avec le `git history` ou `git log`
 -   **prévue/staged** avec le `git diff`
--    🏁 example
+-   🏁 example
 :::
 
 ## Les manoeuvres remote
@@ -89,14 +89,46 @@ Sauvegarder les modifications en **remote** :
 ::: incremental
 -   `git pull` pour récupérer les modifications existantes
 -   `git push` pour mettre à jour le remote avec notre local
--    🏁 example
+-   🏁 example
 :::
 
 🔭 Le repository remote est hébergé en ligne (GitHub, GitLab, Gitea), on peut le **cloner** sur une autre machine!
 
 # Et les branches?
 
+## Les branches
 
-# Source
+Une **nouvelle branche** permet de :
+
+-   🧦 créer plusieurs versions à partir d'une même base
+
+-   🚦intégrer des corrections une fois validée/terminée
+
+-   🤝 collaborer efficacement
+
+-   🔭️ et on y a encore accès partout
+
+## Le principe I
+
+On *duplique* une base en un nouvelle branche. Les prochains `commit` sont spécifiques à la branch active (`git show HEAD`).
+
+![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:7afd8460-b7bf-4c42-b997-4f5cf24f21e8/01%2520Branch-2%2520kopiera.png?cdnVersion=638){fig-alt="git branch" fig-align="center"}
+
+## Les manoeuvres
+
+::: incremental
+-   `git branch <new-branch>` pour créer une branche
+-   `git checkout <new-branch>` pour la définir comme active
+-   🏁 example
+:::
+
+## Le principe II
+
+On *intègre* les modification d'une branche dans une autre une fois la correction/feature terminée (`git merge`).
+
+![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:c6db91c1-1343-4d45-8c93-bdba910b9506/02%20Branch-1%20kopiera.png?cdnVersion=638){fig-alt="git merge" fig-align="center"}
+
+
+# Sources
 
 remerciements source : https://github.com/quarto-dev/quarto-cli https://profy.dev/project/github-minesweeper/ https://thinkr.fr/travailler-avec-git-via-rstudio-et-versionner-son-code/
