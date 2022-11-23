@@ -6,7 +6,7 @@ format:  gfm
 
 # 
 
-![xkcd comics](https://imgs.xkcd.com/comics/git_2x.png){fig-alt="git_xkcd" fig-align="center" width="311"}
+![xkcd comics](https://imgs.xkcd.com/comics/git_2x.png){fig-alt="git_xkcd" fig-align="center" width="300"}
 
 # Pourquoi utiliser Git?
 
@@ -21,7 +21,7 @@ format:  gfm
 
 Un **système de contrôle de version** (SVC) relie et unifie les différentes versions d'un même projet entre elles.
 
-![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:389059a7-214c-46a3-bc52-7781b4730301/hero.svg?cdnVersion=638){fig-alt="git_tree" fig-align="center" width="482"}
+![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:389059a7-214c-46a3-bc52-7781b4730301/hero.svg?cdnVersion=638){fig-alt="git_tree" fig-align="center" width="600"}
 
 ## Pourquoi utiliser Git?
 
@@ -41,11 +41,11 @@ Un **système de contrôle de version** (SVC) permet de :
 
 ✨ utilisable sous RStudio ✨
 
-![git tab in RStudio](git_tab_rstudio.png){fig-alt="git_tab" fig-align="center"}
+![git tab in RStudio](git_tab_rstudio.png){fig-alt="git_tab" fig-align="center" width="600"}
 
 ## Les manoeuvres
 
-![git command (adapted from C.Staud)](git_cmd.png){fig-alt="git_cmd" fig-align="center"}
+![git command (adapted from C.Staud)](git_cmd.png){fig-alt="git_cmd" fig-align="center" width="600"}
 
 ## Les manoeuvres locales
 
@@ -97,7 +97,7 @@ Une **nouvelle branche** permet de :
 
 On *duplique* une base en un nouvelle branche. Les prochains `commit` sont spécifiques à la branch active (`git show HEAD`).
 
-![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:7afd8460-b7bf-4c42-b997-4f5cf24f21e8/01%2520Branch-2%2520kopiera.png?cdnVersion=638){fig-alt="git branch" fig-align="center" width="493"}
+![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:7afd8460-b7bf-4c42-b997-4f5cf24f21e8/01%2520Branch-2%2520kopiera.png?cdnVersion=638){fig-alt="git branch" fig-align="center" width="600"}
 
 ## Les manoeuvres
 
@@ -112,7 +112,7 @@ On *duplique* une base en un nouvelle branche. Les prochains `commit` sont spéc
 
 On *intègre* les `commit` d'une branche dans une autre (`git merge`).
 
-![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:c6db91c1-1343-4d45-8c93-bdba910b9506/02%20Branch-1%20kopiera.png?cdnVersion=638){fig-alt="git merge" fig-align="center"}
+![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:c6db91c1-1343-4d45-8c93-bdba910b9506/02%20Branch-1%20kopiera.png?cdnVersion=638){fig-alt="git merge" fig-align="center" width="600"}
 
 ## Les manoeuvres
 
@@ -126,11 +126,11 @@ On *intègre* les `commit` d'une branche dans une autre (`git merge`).
 
 En collaboration, on peut créer un `pull request` de notre branch sur un repo remote pour demander à intégrer nos `commit` dans la master branch.
 
-![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:d079cf8a-2bea-4d77-910e-2eac20c8050e/01%20Anatomy%20of%20a%20Pull%20Request.svg?cdnVersion=638){fig-alt="pull request" fig-align="center" width="532"}
+![atlassian tutorial](https://wac-cdn.atlassian.com/dam/jcr:d079cf8a-2bea-4d77-910e-2eac20c8050e/01%20Anatomy%20of%20a%20Pull%20Request.svg?cdnVersion=638){fig-alt="pull request" fig-align="center" width="600"}
 
 # 
 
-![xkcd comics](https://imgs.xkcd.com/comics/git_commit_2x.png){fig-alt="git commit" fig-align="center" width="426"}
+![xkcd comics](https://imgs.xkcd.com/comics/git_commit_2x.png){fig-alt="git commit" fig-align="center" width="400"}
 
 # Sources
 

@@ -5,7 +5,7 @@ MeetupR Nantes
 
 <figure>
 <img src="https://imgs.xkcd.com/comics/git_2x.png"
-data-fig-alt="git_xkcd" data-fig-align="center" width="311"
+data-fig-alt="git_xkcd" data-fig-align="center" width="300"
 alt="xkcd comics" />
 <figcaption aria-hidden="true">xkcd comics</figcaption>
 </figure>
@@ -29,7 +29,7 @@ différentes versions d’un même projet entre elles.
 <figure>
 <img
 src="https://wac-cdn.atlassian.com/dam/jcr:389059a7-214c-46a3-bc52-7781b4730301/hero.svg?cdnVersion=638"
-data-fig-alt="git_tree" data-fig-align="center" width="482"
+data-fig-alt="git_tree" data-fig-align="center" width="600"
 alt="atlassian tutorial" />
 <figcaption aria-hidden="true">atlassian tutorial</figcaption>
 </figure>
@@ -54,7 +54,7 @@ Un **système de contrôle de version** (SVC) permet de :
 
 <figure>
 <img src="git_tab_rstudio.png" data-fig-alt="git_tab"
-data-fig-align="center" alt="git tab in RStudio" />
+data-fig-align="center" width="600" alt="git tab in RStudio" />
 <figcaption aria-hidden="true">git tab in RStudio</figcaption>
 </figure>
 
@@ -62,7 +62,7 @@ data-fig-align="center" alt="git tab in RStudio" />
 
 <figure>
 <img src="git_cmd.png" data-fig-alt="git_cmd" data-fig-align="center"
-alt="git command (adapted from C.Staud)" />
+width="600" alt="git command (adapted from C.Staud)" />
 <figcaption aria-hidden="true">git command (adapted from
 C.Staud)</figcaption>
 </figure>
@@ -128,7 +128,7 @@ sont spécifiques à la branch active (`git show HEAD`).
 <figure>
 <img
 src="https://wac-cdn.atlassian.com/dam/jcr:7afd8460-b7bf-4c42-b997-4f5cf24f21e8/01%2520Branch-2%2520kopiera.png?cdnVersion=638"
-data-fig-alt="git branch" data-fig-align="center" width="493"
+data-fig-alt="git branch" data-fig-align="center" width="600"
 alt="atlassian tutorial" />
 <figcaption aria-hidden="true">atlassian tutorial</figcaption>
 </figure>
@@ -151,7 +151,7 @@ On *intègre* les `commit` d’une branche dans une autre (`git merge`).
 <figure>
 <img
 src="https://wac-cdn.atlassian.com/dam/jcr:c6db91c1-1343-4d45-8c93-bdba910b9506/02%20Branch-1%20kopiera.png?cdnVersion=638"
-data-fig-alt="git merge" data-fig-align="center"
+data-fig-alt="git merge" data-fig-align="center" width="600"
 alt="atlassian tutorial" />
 <figcaption aria-hidden="true">atlassian tutorial</figcaption>
 </figure>
@@ -174,7 +174,7 @@ repo remote pour demander à intégrer nos `commit` dans la master branch.
 <figure>
 <img
 src="https://wac-cdn.atlassian.com/dam/jcr:d079cf8a-2bea-4d77-910e-2eac20c8050e/01%20Anatomy%20of%20a%20Pull%20Request.svg?cdnVersion=638"
-data-fig-alt="pull request" data-fig-align="center" width="532"
+data-fig-alt="pull request" data-fig-align="center" width="600"
 alt="atlassian tutorial" />
 <figcaption aria-hidden="true">atlassian tutorial</figcaption>
 </figure>
@@ -183,7 +183,7 @@ alt="atlassian tutorial" />
 
 <figure>
 <img src="https://imgs.xkcd.com/comics/git_commit_2x.png"
-data-fig-alt="git commit" data-fig-align="center" width="426"
+data-fig-alt="git commit" data-fig-align="center" width="400"
 alt="xkcd comics" />
 <figcaption aria-hidden="true">xkcd comics</figcaption>
 </figure>
