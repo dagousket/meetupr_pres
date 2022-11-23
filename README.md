@@ -192,16 +192,16 @@ alt="xkcd comics" />
 
 **git**
 
-profy.dev/project/github-minesweeper/
+https://profy.dev/project/github-minesweeper
 
-www.atlassian.com/git/tutorials
+https://www.atlassian.com/git/tutorials
 
 **RStudio git**
 
-thinkr.fr/travailler-avec-git-via-rstudio-et-versionner-son-code/
+https://thinkr.fr/travailler-avec-git-via-rstudio-et-versionner-son-code
 
 **quarto**
 
 https://quarto.org/docs/presentations/revealjs
 
-github.com/quarto-dev/quarto-cli
+https://github.com/quarto-dev/quarto-cli
