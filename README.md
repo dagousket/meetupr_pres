@@ -79,6 +79,20 @@ Sauvegarder les modifications en **local** :
 
 </div>
 
+## Le `commit`
+
+- 🎯 est soumis avec un **message** qui résume son but
+
+- 🐘 garde en mémoire chaque **changement de ligne**
+
+- 🏷 possède un **auteur** et un identifiant unique (le **hash**)
+
+- 🚋 connait le hash du **commit parent**
+
+## Un `commit` RStudio
+
+<img src="commit_info.png" data-fig-align="center" width="900" />
+
 ## Les outils
 
 On peut explorer toutes nos modifications :
