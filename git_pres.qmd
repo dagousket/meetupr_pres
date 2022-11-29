@@ -19,10 +19,6 @@ revealjs-plugins:
   - pointer
 ---
 
-# 
-
-![xkcd comics](https://imgs.xkcd.com/comics/git_2x.png){fig-alt="git_xkcd" fig-align="center"}
-
 # Pourquoi utiliser Git?
 
 ::: incremental
@@ -160,6 +156,10 @@ En collaboration, on peut créer un `pull request` de notre branch sur un repo r
 # 
 
 ![xkcd comics](https://imgs.xkcd.com/comics/git_commit_2x.png){fig-alt="git commit" fig-align="center"}
+
+# 
+
+![xkcd comics](https://imgs.xkcd.com/comics/git_2x.png){fig-alt="git_xkcd" fig-align="center"}
 
 # Sources
 
